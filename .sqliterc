@@ -1,4 +1,4 @@
 .headers on
-.mode column
+.mode table
 .timer on
 
