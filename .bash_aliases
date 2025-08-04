@@ -1,3 +1,3 @@
-alias ll='ls -alFh'
+alias ll='ls -lh'
 alias vi='nvim'
 
