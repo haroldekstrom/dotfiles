@@ -1,6 +1,6 @@
 # See: https://blog.gitbutler.com/how-git-core-devs-configure-git/
 [user]
-        email = hekstrom@liveaction.com
+        email = hekstrom@bluecatnetworks.com
         name = Harold Ekstrom
 [column]
         ui = auto
